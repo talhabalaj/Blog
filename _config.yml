@@ -26,7 +26,11 @@ github_username:  talhabalaj
 
 # Build settings
 markdown: kramdown
+<<<<<<< HEAD
 theme: jekyll-theme-time-machine
+=======
+theme: jekyll-theme-merlot
+>>>>>>> 986b2e804805e7ec1221cf8b0fa3899188707231
 plugins:
   - jekyll-feed
 
